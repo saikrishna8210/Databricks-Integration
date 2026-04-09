@@ -1,4 +1,5 @@
 -- Databricks notebook source
-print("Hello World")
-print("helloworld")
-print(saikridsh)
+-- MAGIC %python
+-- MAGIC print("Hello World")
+-- MAGIC print("helloworld")
+-- MAGIC
